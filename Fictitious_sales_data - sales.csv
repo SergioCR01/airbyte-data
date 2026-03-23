@@ -1,0 +1,22 @@
+sale_id,date,customer_id,customer_name,product,category,quantity,unit_price,total,salesperson,region,status
+1,2024-01-05,101,Anna Garcia,Dell Laptop,Technology,2,12500,25000,Charles Mendez,North,completed
+2,2024-01-08,102,Louis Perry,Logitech Mouse,Technology,5,350,1750,Mary Lopez,South,completed
+3,2024-01-12,103,Sophia Ramirez,Ergonomic Chair,Furniture,3,4200,12600,Charles Mendez,Central,completed
+4,2024-01-15,104,Diego Torres,"LG 27"" Monitor",Technology,1,8900,8900,Peter Ruiz,North,completed
+5,2024-01-20,105,Valentina Cruz,Mechanical Keyboard,Technology,4,1200,4800,Mary Lopez,South,completed
+6,2024-02-03,101,Anna Garcia,Sony Headphones,Technology,2,2800,5600,Charles Mendez,North,completed
+7,2024-02-07,106,Andrew Morales,Standing Desk,Furniture,1,9500,9500,Peter Ruiz,West,completed
+8,2024-02-14,107,Camila Jimenez,Samsung Tablet,Technology,3,6700,20100,Mary Lopez,South,completed
+9,2024-02-19,108,Robert Vargas,HP Printer,Technology,2,3200,6400,Charles Mendez,North,cancelled
+10,2024-02-25,109,Natalie Soto,Metal Shelf,Furniture,5,1800,9000,Peter Ruiz,Central,completed
+11,2024-03-04,110,Hector Castillo,HP Laptop,Technology,1,11200,11200,Mary Lopez,West,completed
+12,2024-03-10,102,Louis Perry,Logitech Webcam,Technology,3,980,2940,Charles Mendez,South,completed
+13,2024-03-15,111,Isabel Navarro,Gaming Chair,Furniture,2,5600,11200,Peter Ruiz,North,completed
+14,2024-03-22,112,Fernando Luna,1TB SSD Drive,Technology,6,1450,8700,Mary Lopez,Central,completed
+15,2024-04-01,113,Patricia Rios,MacBook Air,Technology,1,22000,22000,Charles Mendez,North,completed
+16,2024-04-08,114,Michael Herrera,LED Lamp,Home,4,650,2600,Peter Ruiz,South,completed
+17,2024-04-14,115,Caroline Vega,WiFi 6 Router,Technology,2,2100,4200,Mary Lopez,West,completed
+18,2024-04-20,116,Javier Mendoza,LG Refrigerator,Home,1,18500,18500,Charles Mendez,North,pending
+19,2024-04-28,117,Daniela Flores,Apple Smartwatch,Technology,3,7800,23400,Peter Ruiz,Central,completed
+20,2024-05-05,118,Alex Ortiz,3-Seater Sofa,Furniture,1,15000,15000,Mary Lopez,South,completed
+TOTAL,,,,,,,,223390,,,
