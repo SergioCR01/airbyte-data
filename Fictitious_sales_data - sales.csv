@@ -1,22 +1,101 @@
 sale_id,date,customer_id,customer_name,product,category,quantity,unit_price,total,salesperson,region,status
-1,2024-01-05,101,Anna Garcia,Dell Laptop,Technology,2,12500,25000,Charles Mendez,North,completed
-2,2024-01-08,102,Louis Perry,Logitech Mouse,Technology,5,350,1750,Mary Lopez,South,completed
-3,2024-01-12,103,Sophia Ramirez,Ergonomic Chair,Furniture,3,4200,12600,Charles Mendez,Central,completed
-4,2024-01-15,104,Diego Torres,"LG 27"" Monitor",Technology,1,8900,8900,Peter Ruiz,North,completed
-5,2024-01-20,105,Valentina Cruz,Mechanical Keyboard,Technology,4,1200,4800,Mary Lopez,South,completed
-6,2024-02-03,101,Anna Garcia,Sony Headphones,Technology,2,2800,5600,Charles Mendez,North,completed
-7,2024-02-07,106,Andrew Morales,Standing Desk,Furniture,1,9500,9500,Peter Ruiz,West,completed
-8,2024-02-14,107,Camila Jimenez,Samsung Tablet,Technology,3,6700,20100,Mary Lopez,South,completed
-9,2024-02-19,108,Robert Vargas,HP Printer,Technology,2,3200,6400,Charles Mendez,North,cancelled
-10,2024-02-25,109,Natalie Soto,Metal Shelf,Furniture,5,1800,9000,Peter Ruiz,Central,completed
-11,2024-03-04,110,Hector Castillo,HP Laptop,Technology,1,11200,11200,Mary Lopez,West,completed
-12,2024-03-10,102,Louis Perry,Logitech Webcam,Technology,3,980,2940,Charles Mendez,South,completed
-13,2024-03-15,111,Isabel Navarro,Gaming Chair,Furniture,2,5600,11200,Peter Ruiz,North,completed
-14,2024-03-22,112,Fernando Luna,1TB SSD Drive,Technology,6,1450,8700,Mary Lopez,Central,completed
-15,2024-04-01,113,Patricia Rios,MacBook Air,Technology,1,22000,22000,Charles Mendez,North,completed
-16,2024-04-08,114,Michael Herrera,LED Lamp,Home,4,650,2600,Peter Ruiz,South,completed
-17,2024-04-14,115,Caroline Vega,WiFi 6 Router,Technology,2,2100,4200,Mary Lopez,West,completed
-18,2024-04-20,116,Javier Mendoza,LG Refrigerator,Home,1,18500,18500,Charles Mendez,North,pending
-19,2024-04-28,117,Daniela Flores,Apple Smartwatch,Technology,3,7800,23400,Peter Ruiz,Central,completed
-20,2024-05-05,118,Alex Ortiz,3-Seater Sofa,Furniture,1,15000,15000,Mary Lopez,South,completed
-TOTAL,,,,,,,,223390,,,
+57,2024-01-05,104,Diego Torres,Ergonomic Chair,Furniture,3,4238.3,12714.9,Peter Ruiz,North,pending
+99,2024-01-11,120,Carlos Fuentes,Mechanical Keyboard,Technology,4,1110.29,4441.16,Charles Mendez,North,pending
+63,2024-01-20,116,Javier Mendoza,Samsung Tablet,Technology,4,7124.23,28496.92,Sandra Kim,North,completed
+7,2024-01-23,124,Pablo Castro,MacBook Air,Technology,2,24081.71,48163.42,Sandra Kim,North,completed
+38,2024-01-26,121,Laura Mendez,LG Refrigerator,Home,1,20235.29,20235.29,Mary Lopez,South,completed
+35,2024-01-28,122,Ricardo Salinas,iPad Pro,Technology,2,13225.78,26451.56,Peter Ruiz,Central,completed
+42,2024-01-30,119,Monica Reyes,"Smart TV 55""",Home,1,16793.52,16793.52,Charles Mendez,West,completed
+19,2024-02-02,113,Patricia Rios,Gaming Chair,Furniture,8,5632.61,45060.88,Tom Bradley,North,completed
+31,2024-02-04,102,Louis Perry,Coffee Maker,Home,6,2011.18,12067.08,Mary Lopez,South,completed
+50,2024-02-05,108,Robert Vargas,Logitech Webcam,Technology,5,912.92,4564.6,Tom Bradley,North,cancelled
+97,2024-02-11,116,Javier Mendoza,Dell Laptop,Technology,1,13749.77,13749.77,Peter Ruiz,North,completed
+3,2024-02-17,107,Camila Jimenez,Samsung Tablet,Technology,1,6782.07,6782.07,Tom Bradley,South,completed
+6,2024-02-17,113,Patricia Rios,"LG 27"" Monitor",Technology,6,9518.54,57111.24,Tom Bradley,North,completed
+55,2024-02-17,121,Laura Mendez,1TB SSD Drive,Technology,5,1317.79,6588.95,Peter Ruiz,South,completed
+34,2024-02-19,122,Ricardo Salinas,1TB SSD Drive,Technology,6,1427.84,8567.04,Sandra Kim,Central,cancelled
+49,2024-02-21,103,Sophia Ramirez,LG Refrigerator,Home,4,18521.77,74087.08,Mary Lopez,Central,completed
+2,2024-02-22,122,Ricardo Salinas,"Smart TV 55""",Home,2,16289.58,32579.16,Charles Mendez,Central,completed
+18,2024-02-26,105,Valentina Cruz,iPad Pro,Technology,3,15347.03,46041.09,Sandra Kim,South,pending
+45,2024-03-02,119,Monica Reyes,Samsung Tablet,Technology,1,6859.97,6859.97,Sandra Kim,West,cancelled
+73,2024-03-06,107,Camila Jimenez,1TB SSD Drive,Technology,7,1501.42,10509.94,Mary Lopez,South,pending
+27,2024-03-25,109,Natalie Soto,WiFi 6 Router,Technology,7,2295.03,16065.21,Tom Bradley,Central,cancelled
+93,2024-03-25,115,Caroline Vega,Bean Bag,Furniture,3,4165.35,12496.05,Tom Bradley,West,completed
+61,2024-03-31,114,Michael Herrera,Dell Laptop,Technology,3,13091.41,39274.23,Peter Ruiz,South,completed
+22,2024-04-01,117,Daniela Flores,Bean Bag,Furniture,2,4081.59,8163.18,Peter Ruiz,South,cancelled
+44,2024-04-05,103,Sophia Ramirez,3-Seater Sofa,Furniture,2,15525.64,31051.28,Mary Lopez,Central,completed
+76,2024-04-19,117,Daniela Flores,LED Lamp,Home,3,670.65,2011.95,Peter Ruiz,South,pending
+100,2024-04-21,115,Caroline Vega,Office Desk,Furniture,5,7584.33,37921.65,Mary Lopez,West,pending
+4,2024-04-22,115,Caroline Vega,Apple Smartwatch,Technology,5,8282.71,41413.55,Charles Mendez,West,completed
+12,2024-05-05,106,Andrew Morales,MacBook Air,Technology,7,20987.77,146914.39,Tom Bradley,West,completed
+36,2024-05-07,107,Camila Jimenez,Standing Desk,Furniture,8,8816.35,70530.8,Mary Lopez,South,completed
+69,2024-05-10,102,Louis Perry,Office Desk,Furniture,7,6482.44,45377.08,Tom Bradley,South,cancelled
+85,2024-05-12,125,Andrea Lozano,Samsung Tablet,Technology,5,7056.19,35280.95,Tom Bradley,South,completed
+16,2024-05-15,105,Valentina Cruz,Samsung Tablet,Technology,5,7031.0,35155.0,Sandra Kim,South,pending
+87,2024-05-19,111,Isabel Navarro,HP Laptop,Technology,2,10389.96,20779.92,Mary Lopez,North,completed
+65,2024-05-22,103,Sophia Ramirez,Microphone Blue,Technology,5,3007.71,15038.55,Tom Bradley,Central,completed
+21,2024-05-30,114,Michael Herrera,Sony Headphones,Technology,8,2521.82,20174.56,Peter Ruiz,South,pending
+51,2024-06-03,120,Carlos Fuentes,Bookshelf,Furniture,1,2480.57,2480.57,Tom Bradley,North,completed
+64,2024-06-05,108,Robert Vargas,Samsung Tablet,Technology,1,6914.44,6914.44,Sandra Kim,North,completed
+25,2024-06-06,108,Robert Vargas,Logitech Mouse,Technology,4,376.46,1505.84,Charles Mendez,North,completed
+72,2024-06-07,122,Ricardo Salinas,1TB SSD Drive,Technology,6,1421.7,8530.2,Peter Ruiz,Central,pending
+78,2024-06-07,108,Robert Vargas,Bookshelf,Furniture,4,2230.73,8922.92,Charles Mendez,North,completed
+47,2024-06-09,108,Robert Vargas,HP Printer,Technology,7,2963.76,20746.32,Peter Ruiz,North,completed
+68,2024-06-09,114,Michael Herrera,3-Seater Sofa,Furniture,2,14655.59,29311.18,Tom Bradley,South,completed
+71,2024-06-09,122,Ricardo Salinas,Coffee Maker,Home,2,2296.69,4593.38,Peter Ruiz,Central,pending
+15,2024-06-10,107,Camila Jimenez,iPad Pro,Technology,8,14197.33,113578.64,Sandra Kim,South,completed
+48,2024-06-10,125,Andrea Lozano,Bean Bag,Furniture,2,3427.08,6854.16,Tom Bradley,South,pending
+83,2024-06-11,125,Andrea Lozano,External HDD 2TB,Technology,8,1636.05,13088.4,Tom Bradley,South,completed
+96,2024-06-16,111,Isabel Navarro,Microphone Blue,Technology,7,2962.52,20737.64,Sandra Kim,North,completed
+59,2024-07-02,107,Camila Jimenez,USB-C Hub,Technology,4,919.71,3678.84,Peter Ruiz,South,pending
+10,2024-07-13,109,Natalie Soto,MacBook Air,Technology,6,20515.68,123094.08,Peter Ruiz,Central,completed
+40,2024-07-13,101,Anna Garcia,Gaming Chair,Furniture,5,6077.7,30388.5,Sandra Kim,North,completed
+91,2024-07-18,114,Michael Herrera,LG Refrigerator,Home,4,18456.45,73825.8,Peter Ruiz,South,completed
+94,2024-07-20,119,Monica Reyes,Apple Smartwatch,Technology,1,7150.96,7150.96,Sandra Kim,West,completed
+17,2024-07-23,112,Fernando Luna,Samsung Tablet,Technology,3,6712.77,20138.31,Charles Mendez,Central,completed
+14,2024-07-24,109,Natalie Soto,Ergonomic Chair,Furniture,4,4547.03,18188.12,Tom Bradley,Central,cancelled
+39,2024-07-27,116,Javier Mendoza,LED Lamp,Home,4,697.4,2789.6,Charles Mendez,North,completed
+60,2024-07-27,120,Carlos Fuentes,"Smart TV 55""",Home,3,17362.44,52087.32,Mary Lopez,North,completed
+41,2024-08-04,123,Elena Vargas,"Smart TV 55""",Home,8,14895.35,119162.8,Peter Ruiz,West,completed
+81,2024-08-05,108,Robert Vargas,Sony Headphones,Technology,8,2548.12,20384.96,Mary Lopez,North,completed
+82,2024-08-21,105,Valentina Cruz,Bookshelf,Furniture,8,2480.44,19843.52,Tom Bradley,South,pending
+37,2024-08-24,108,Robert Vargas,Coffee Maker,Home,2,2174.98,4349.96,Tom Bradley,North,completed
+95,2024-08-24,106,Andrew Morales,Logitech Mouse,Technology,5,341.54,1707.7,Mary Lopez,West,completed
+33,2024-08-30,108,Robert Vargas,Bookshelf,Furniture,8,2547.6,20380.8,Mary Lopez,North,completed
+79,2024-08-31,120,Carlos Fuentes,Coffee Maker,Home,2,2180.38,4360.76,Tom Bradley,North,completed
+26,2024-09-05,103,Sophia Ramirez,Microphone Blue,Technology,3,2869.6,8608.8,Sandra Kim,Central,pending
+92,2024-09-05,101,Anna Garcia,Gaming Chair,Furniture,6,5789.14,34734.84,Sandra Kim,North,cancelled
+23,2024-09-16,120,Carlos Fuentes,Standing Desk,Furniture,3,9260.44,27781.32,Mary Lopez,North,pending
+29,2024-09-21,115,Caroline Vega,"LG 27"" Monitor",Technology,4,8409.96,33639.84,Peter Ruiz,West,completed
+24,2024-09-28,101,Anna Garcia,3-Seater Sofa,Furniture,6,14965.82,89794.92,Charles Mendez,North,completed
+89,2024-10-04,115,Caroline Vega,1TB SSD Drive,Technology,1,1364.98,1364.98,Sandra Kim,West,completed
+84,2024-10-07,115,Caroline Vega,External HDD 2TB,Technology,3,1677.97,5033.91,Sandra Kim,West,completed
+8,2024-10-09,110,Hector Castillo,Ring Light,Technology,6,1117.02,6702.12,Charles Mendez,West,completed
+58,2024-10-09,105,Valentina Cruz,1TB SSD Drive,Technology,3,1317.13,3951.39,Peter Ruiz,South,completed
+53,2024-10-10,105,Valentina Cruz,HP Printer,Technology,5,3267.09,16335.45,Peter Ruiz,South,completed
+74,2024-10-18,110,Hector Castillo,Gaming Chair,Furniture,1,5380.34,5380.34,Mary Lopez,West,completed
+75,2024-10-23,120,Carlos Fuentes,iPad Pro,Technology,6,14398.47,86390.82,Sandra Kim,North,cancelled
+67,2024-10-24,109,Natalie Soto,Logitech Mouse,Technology,2,356.76,713.52,Peter Ruiz,Central,cancelled
+46,2024-10-25,119,Monica Reyes,WiFi 6 Router,Technology,6,2282.58,13695.48,Mary Lopez,West,cancelled
+43,2024-10-26,116,Javier Mendoza,WiFi 6 Router,Technology,3,1913.89,5741.67,Tom Bradley,North,completed
+90,2024-10-26,123,Elena Vargas,Dell Laptop,Technology,7,12442.45,87097.15,Peter Ruiz,West,completed
+30,2024-10-28,118,Alex Ortiz,Samsung Tablet,Technology,4,6039.64,24158.56,Charles Mendez,Central,completed
+86,2024-11-16,108,Robert Vargas,HP Printer,Technology,8,2929.59,23436.72,Peter Ruiz,North,completed
+56,2024-11-22,109,Natalie Soto,Sony Headphones,Technology,8,2828.94,22631.52,Sandra Kim,Central,pending
+1,2024-11-23,104,Diego Torres,Dell Laptop,Technology,5,11862.23,59311.15,Mary Lopez,North,cancelled
+98,2024-11-28,103,Sophia Ramirez,Microphone Blue,Technology,1,3257.62,3257.62,Mary Lopez,Central,completed
+9,2024-12-04,108,Robert Vargas,Microphone Blue,Technology,5,3400.84,17004.2,Mary Lopez,North,completed
+52,2024-12-05,104,Diego Torres,External HDD 2TB,Technology,3,1524.63,4573.89,Charles Mendez,North,cancelled
+77,2024-12-05,121,Laura Mendez,3-Seater Sofa,Furniture,6,13780.16,82680.96,Mary Lopez,South,cancelled
+32,2024-12-08,116,Javier Mendoza,Standing Desk,Furniture,3,9924.37,29773.11,Tom Bradley,North,pending
+62,2024-12-08,124,Pablo Castro,Bookshelf,Furniture,4,2288.07,9152.28,Charles Mendez,North,completed
+11,2024-12-09,109,Natalie Soto,Office Desk,Furniture,2,7357.15,14714.3,Mary Lopez,Central,pending
+70,2024-12-09,107,Camila Jimenez,Logitech Webcam,Technology,7,895.71,6269.97,Peter Ruiz,South,pending
+66,2024-12-13,118,Alex Ortiz,HP Laptop,Technology,1,10338.37,10338.37,Peter Ruiz,Central,completed
+20,2024-12-14,124,Pablo Castro,"LG 27"" Monitor",Technology,5,9378.11,46890.55,Peter Ruiz,North,completed
+13,2024-12-16,111,Isabel Navarro,Ring Light,Technology,1,1040.39,1040.39,Charles Mendez,North,completed
+54,2024-12-17,121,Laura Mendez,Coffee Maker,Home,5,2202.38,11011.9,Peter Ruiz,South,completed
+28,2024-12-19,107,Camila Jimenez,Office Desk,Furniture,5,7054.55,35272.75,Peter Ruiz,South,completed
+88,2024-12-21,105,Valentina Cruz,Office Desk,Furniture,4,6572.49,26289.96,Sandra Kim,South,completed
+80,2024-12-22,113,Patricia Rios,LED Lamp,Home,7,616.72,4317.04,Charles Mendez,North,completed
+5,2024-12-23,114,Michael Herrera,HP Laptop,Technology,5,10428.27,52141.35,Peter Ruiz,South,completed
